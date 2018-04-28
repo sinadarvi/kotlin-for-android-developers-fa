@@ -1,7 +1,7 @@
 # kotlin-for-android-developers-fa
 &lt;&lt;Kotlin for android developers>> book (in Persian) [IN PROGRESS]
 
-> Wrong words, sentence, translation errors and other issues can mention issues. Please explain the cause of the error.
+> Wrong words, sentence, translation errors and other issues can mention as issues. Please explain the cause of the error.
 
 1. [Read or download online from GitBook]
 2. [Github](https://github.com/sinadarvi/kotlin-for-android-developers-fa)
