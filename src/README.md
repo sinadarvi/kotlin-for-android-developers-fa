@@ -10,7 +10,7 @@
 
 ت ) چند سخن مترجم
 
-۱ ) معرفی
+[۱ ) معرفی](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/introduction/README.md)
 
     ۱.۱ ) کاتلین چیست؟
     ۱.۲ ) با کاتلین به چه میرسیم؟
