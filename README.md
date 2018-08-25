@@ -10,6 +10,8 @@ i had a [repo](https://github.com/sinadarvi/kotlin-for-android-developers) that 
 
 I hope you buy genuine, it is recommended to read the original English：https://antonioleiva.com/kotlin-android-developers-book/
 
+for start reading click on
+[**Content Page**](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/README.md)
 
 __Contributes will be accepted__
 
