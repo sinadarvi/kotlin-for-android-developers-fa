@@ -12,10 +12,8 @@
 
 [۱ ) معرفی](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/introduction)
 
-    ۱.۱ ) کاتلین چیست؟
-    ۱.۲ ) با کاتلین به چه میرسیم؟
+[۱.۱ )‌کاتلین چیست؟](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/what-is-kotlin)
+
+۱.۲ ) با کاتلین به چه میرسیم؟
 
 ۲ )‌ آماده شدن
-
-    ۲.۱ ) اندروید استودیو
-    ۲.۲ )‌ نصب پلاگین کاتلین
