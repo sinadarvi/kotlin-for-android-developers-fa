@@ -10,4 +10,12 @@
 
 [ت ) چند سخن مترجم](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/translator-talk/README.md)
 
+۱ ) سیب
 
+    ۱.۱ ) کاتلین چیست؟
+    ۱.۲ ) با کاتلین به چه میرسیم؟
+
+۲ )‌ آماده شدن
+
+    ۲.۱ ) اندروید استودیو
+    ۲.۲ )‌ نصب پلاگین کاتلین
