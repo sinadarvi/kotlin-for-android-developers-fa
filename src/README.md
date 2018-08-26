@@ -22,4 +22,8 @@
 
 [۲.۲ ) نصب پلاگین کاتلین](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/install-kotlin-plugin)
 
+[۳ ) ساختن یک پروژه جدید](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/creating-a-new-project)
+
+[۳.۱ ) ساختن پروژه در اندروید استودیو](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/creating-the-project-in-android-studio)
+
 <بقیه فصل ها در حال ترجمه است>
