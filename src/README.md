@@ -20,4 +20,6 @@
 
 [۲.۱ ) اندروید استودیو](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/android-studio)
 
+[۲.۲ ) نصب پلاگین کاتلین](https://github.com/sinadarvi/kotlin-for-android-developers-fa/blob/master/src/install-kotlin-plugin)
+
 <بقیه فصل ها در حال ترجمه است>
